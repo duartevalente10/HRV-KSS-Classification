@@ -1,6 +1,8 @@
 # HRV-KSS-Classification
 
 # Project Structure
+-------------------
+
 - **datasets_2**: Contains the raw and processed datasets used in the project.
   
 - **modeling_2**: Contains the machine learning models and scripts related to the model building, training, and evaluation.
@@ -17,8 +19,10 @@
         
         - **supervised**: Supervised datasets, ready for model training and evaluation.
 
-Pre-Requisites
---------------
+Note: datasets_2 and pre_process_2/datasets folders are not included. Should be obtained separately.
+
+# Pre-Requisites
+---------------
 
 Working Python 3 installation (Python version = 3.9.2), with packages presented in the file requirements.txt
 
