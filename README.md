@@ -1,14 +1,14 @@
 # HRV-KSS-Classification
 
 # Project Structure
--datasets_2
--modeling_2
--pre_process_2
-    -datasets
-        -hrv
-        -sim
-        -stats
-        -supervised
+datasets_2
+modeling_2
+pre_process_2
+    datasets
+        hrv
+        sim
+        stats
+        supervised
 
 Pre-Requisites
 --------------
